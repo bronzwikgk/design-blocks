@@ -22,3 +22,19 @@ Thumbs.db
 # Files
 package-lock.json
 npm-debug.log
+assets/Icon
+dist/Icon
+Icon
+screenshots/Icon
+src/html/Icon
+src/Icon
+src/imgs/customers/Icon
+src/imgs/draws/Icon
+src/imgs/hero/Icon
+src/imgs/Icon
+src/imgs/icons/Icon
+src/imgs/people/Icon
+src/imgs/photos/Icon
+src/imgs/shapes/Icon
+src/scss/Icon
+utils/Icon
